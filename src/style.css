@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 
@@ -118,7 +118,11 @@ main p {
 
 .embed {
   width: 100%;
-  aspect-ratio: 1/1;
+  aspect-ratio: 2.75/1.75;
+}
+
+.instagram-embeds {
+  margin: 30px 0;
 }
 
 .card-body {
@@ -143,7 +147,7 @@ main p {
   letter-spacing: 3px;
   text-transform: uppercase;
   padding: 16px;
-  background-color: #462cb3;
+  background-color: #da5b14;
   text-decoration: none;
 }
 
